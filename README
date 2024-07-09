@@ -1,0 +1,8 @@
+README
+
+A project to analyze goalkeepers using advanced goalkeeping statistics.
+
+The project uses Jupyter Notebook.
+
+Data sourced from Opta, using fbref.com.
+
